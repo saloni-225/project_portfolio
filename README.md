@@ -1,10 +1,10 @@
 # link of the project
 https://saloniprojectportfolio.netlify.app/
 
-#About this project
+# About this project
 It is a basic portfolio using react
 
-#screen shots
+# screen shots
 ## Splash Screen
 ![image](https://github.com/saloni-225/project_portfolio/assets/81464325/3622a04c-da7a-49b0-bae7-f9b9d2ab2803)
 
