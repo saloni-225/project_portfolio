@@ -1,4 +1,4 @@
-# link of the project
+# Link of the project
 https://saloniprojectportfolio.netlify.app/
 
 # About this project
